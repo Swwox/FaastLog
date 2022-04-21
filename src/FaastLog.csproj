@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	  <Authors>Swox</Authors>
+	  <Tags>Logging</Tags>
+	  <Title>FaastLog</Title>
+	  <Description>A small logging libary with a tag and severity based filtering mechanism.</Description>
+  </PropertyGroup>
+
+</Project>
